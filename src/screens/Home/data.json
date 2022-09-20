@@ -1,0 +1,17 @@
+[{
+    "product": [{
+        "id": "1",
+        "name": "Steweed cabbage with sauce",
+        "price": "11.90"
+      },
+      {
+        "id": "2",
+        "name": "Puree soup with turkey pieces",
+        "price": "8.00"
+      },
+      {
+        "id": "3",
+        "name": "Chicken with vegetables",
+        "price": "15.00"
+      }]
+}]

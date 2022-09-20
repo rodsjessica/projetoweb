@@ -1,0 +1,53 @@
+.Home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Content-Header-Image {
+    width: '100%';
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 40px;
+}
+
+.Content-Header {
+    display: flex;
+    flex-direction: column;
+}
+
+.Title {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+h1 {
+    text-align: left;
+    font-size: 38px;
+}
+
+.Info {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+p {
+    text-align: left;
+    color: #A9A9A9;
+    font-size: 12.5px;
+}
+
+#Img {
+    width: 300px;
+    height: 300px;
+}
+
+.Wrapper-CardProduct {
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
